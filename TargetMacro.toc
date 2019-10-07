@@ -1,0 +1,4 @@
+## Interface: 11302
+## Title: TargetMacro
+##SavedVariables: TargetMacroData
+TargetMacro.lua

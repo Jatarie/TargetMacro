@@ -1,0 +1,17 @@
+<Bindings>
+	<Binding name="Clear All And Add" description="" header="A" category="Target Macro">
+    TM.ClearAllAndAdd()
+	</Binding>
+	<Binding name="Add Target To Macro" description="" header="B" category="Target Macro">
+	TM.Add()
+	</Binding>
+	<Binding name="Remove Target From Macro" description="" header="C" category="Target Macro">
+	TM.Remove()
+	</Binding>
+	<Binding name="Cycle The Macro One Step" description="" header="D" category="Target Macro">
+	TM.Cycle()
+	</Binding>
+	<Binding name="Add Current Zygor Target Mobs To Macro" description="" header="E" category="Target Macro">
+	TM.Zygor()
+	</Binding>
+</Bindings>
